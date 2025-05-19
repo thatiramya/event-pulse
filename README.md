@@ -1,7 +1,7 @@
 
 # EventPulse - Premium Event Booking Platform
 
-![EventPulse Banner](https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80)
+<img src="https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" width="200" height="400" />
 
 ## 🌟 Overview
 
@@ -165,9 +165,6 @@ eventpulse/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👏 Acknowledgements
 
@@ -179,8 +176,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [TypeScript](https://www.typescriptlang.org/) for the type safety
 - [Vite](https://vitejs.dev/) for the frontend tooling
 
-## 📞 Contact
 
-For any questions or suggestions, please reach out via:
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- GitHub: [yourusername](https://github.com/yourusername)
